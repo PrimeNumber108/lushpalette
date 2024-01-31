@@ -49,8 +49,8 @@ const Footer = () => {
         <h3 className="mb-1.5 text-lg font-bold">EASY RETURN & EXCHANGE PROCESS</h3>
         <p>
           Firstly, email (So We Can Send You Your Receipt) customer care at{" "}
-          <Link className="text-blue-500 underline" href="mailto:LUSH PALETTE.contact@gmail.com" target="_blank">
-            LUSH PALETTE.contact@gmail.com
+          <Link className="text-blue-500 underline" href="mailto:mailto:lushpalette@gmail.com" target="_blank">
+            mailto:lushpalette@gmail.com
           </Link>{" "}
           or call our support team. Our team is available to talk to you 9am-5pm, Monday to Friday! Include in your
           initial request how you wish to proceed (return or exchange) and we will walk you through the process of which

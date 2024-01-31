@@ -44,8 +44,8 @@ const users = [
 export default function Home() {
   return (
     <div>
-      <div className="relative w-full h-screen">
-        <video className="brightness-90" autoPlay={true} muted loop>
+      <div className="relative w-full min-h-screen">
+        <video className="w-full brightness-90" autoPlay={true} muted loop>
           <source src="/video/banner.mp4" type="video/mp4"></source>
         </video>
         <div className="absolute inset-0 flex items-center justify-center">
